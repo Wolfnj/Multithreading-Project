@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Raspberry Pi (aa0abd3d-5279-48a4-9bb2-df6eca5325f5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.eBYyWpMFKk" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debugraspberry-pi" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-raspberrypi" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-raspberry-pi" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-raspberrypi" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote GDB Server (b3a52cb5-5a0e-4a06-9f7d-523f2953be1f)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote GDB Server (c49546a4-f420-4a62-9d62-226fc891cbd9)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote GDB Server (de9cfe51-7c22-4172-8036-c03b96f69ec1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

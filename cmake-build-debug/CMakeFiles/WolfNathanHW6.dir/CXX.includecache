@@ -1,0 +1,96 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/Knight.cpp
+iostream
+-
+Knight.h
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/Knight.h
+
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/Knight.h
+string
+-
+fstream
+-
+
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/Log.cpp
+Log.h
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/Log.h
+iostream
+-
+fstream
+-
+ctime
+-
+
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/Log.h
+string
+-
+
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/Rabbit.cpp
+iostream
+-
+Rabbit.h
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/Rabbit.h
+
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/Rabbit.h
+string
+-
+fstream
+-
+
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/main.cpp
+iostream
+-
+string.h
+-
+string
+-
+fstream
+-
+ctime
+-
+vector
+-
+sstream
+-
+algorithm
+-
+cctype
+-
+locale
+-
+signal.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+wait.h
+-
+iostream
+-
+Log.h
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/Log.h
+iostream
+-
+algorithm
+-
+csignal
+-
+semaphore.h
+-
+Rabbit.h
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/Rabbit.h
+Knight.h
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/Knight.h
+queue
+-
+

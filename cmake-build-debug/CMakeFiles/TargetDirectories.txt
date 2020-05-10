@@ -1,0 +1,3 @@
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/cmake-build-debug/CMakeFiles/WolfNathanHW6.dir
+C:/Users/Nwolf/Documents/SPRING 2020/OS/Homework/6/WolfNathanHW6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="WolfNathanHW6" targetName="WolfNathanHW6" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug RaspberryPi" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Raspberry Pi" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1fc454c-d76e-4fd3-8e60-54a1fd54baf3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug RaspberryPi" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aj9vNgAoSzasaceh8npUvuuWda" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WolfNathanHW6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="WolfNathanHW6" TARGET_NAME="WolfNathanHW6" CONFIG_NAME="Debug RaspberryPi" RUN_TARGET_PROJECT_NAME="WolfNathanHW6" RUN_TARGET_NAME="WolfNathanHW6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1fc454c-d76e-4fd3-8e60-54a1fd54baf3" name="Default Changelist" comment="" />
+      <created>1587238365864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587238365864</updated>
+      <workItem from="1587238367959" duration="13619000" />
+      <workItem from="1587496225260" duration="185000" />
+      <workItem from="1587497075638" duration="12376000" />
+      <workItem from="1587559150295" duration="441000" />
+      <workItem from="1587559750691" duration="1922000" />
+      <workItem from="1587601316868" duration="6750000" />
+      <workItem from="1587610039130" duration="1528000" />
+      <workItem from="1587667231261" duration="818000" />
+      <workItem from="1588279225547" duration="2766000" />
+      <workItem from="1589078795886" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2724" y="-51" key="FileChooserDialogImpl" timestamp="1587667259475">
+      <screen x="1920" y="-349" width="2048" height="1120" />
+    </state>
+    <state x="2724" y="-51" key="FileChooserDialogImpl/1920.-349.2048.1120/0.0.1920.1040@1920.-349.2048.1120" timestamp="1587667259475" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1589079406865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/1920.-349.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1589079406865" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/1920.-349.2048.1120/0.0.1920.1040@1920.-349.2048.1120" timestamp="1587611947593" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1589079406864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/1920.-349.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1589079406864" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center/1920.-349.2048.1120/0.0.1920.1040@1920.-349.2048.1120" timestamp="1587611947593" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1589079406864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/1920.-349.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1589079406864" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left/1920.-349.2048.1120/0.0.1920.1040@1920.-349.2048.1120" timestamp="1587611947593" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1589079406865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/1920.-349.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1589079406865" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right/1920.-349.2048.1120/0.0.1920.1040@1920.-349.2048.1120" timestamp="1587611947593" />
+    <state x="500" y="185" key="SettingsEditor" timestamp="1589079125688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="500" y="185" key="SettingsEditor/1920.-349.2048.1120/0.0.1920.1040@0.0.1920.1040" timestamp="1589079125688" />
+    <state x="2453" y="-150" key="SettingsEditor/1920.-349.2048.1120/0.0.1920.1040@1920.-349.2048.1120" timestamp="1587601532430" />
+    <state x="2641" y="31" key="com.intellij.ide.util.TipDialog" timestamp="1587667231219">
+      <screen x="1920" y="-349" width="2048" height="1120" />
+    </state>
+    <state x="2641" y="31" key="com.intellij.ide.util.TipDialog/1920.-349.2048.1120/0.0.1920.1040@1920.-349.2048.1120" timestamp="1587667231219" />
+  </component>
+</project>
